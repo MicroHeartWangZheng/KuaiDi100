@@ -1,0 +1,14 @@
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\Interface.Common.dll
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\Interface.Core.dll
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.csprojAssemblyReference.cache
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.AssemblyInfoInputs.cache
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.AssemblyInfo.cs
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\KuaiDi100.deps.json
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\KuaiDi100.dll
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\KuaiDi100.pdb
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\Interface.Common.pdb
+D:\Codes\KuaiDi100\KuaiDi100\bin\Debug\netcoreapp3.1\Interface.Core.pdb
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.csproj.CoreCompileInputs.cache
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.csproj.CopyComplete
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.dll
+D:\Codes\KuaiDi100\KuaiDi100\obj\Debug\netcoreapp3.1\KuaiDi100.pdb

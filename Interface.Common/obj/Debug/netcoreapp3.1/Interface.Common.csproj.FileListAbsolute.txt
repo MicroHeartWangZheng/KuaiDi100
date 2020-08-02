@@ -1,0 +1,9 @@
+D:\Codes\KuaiDi100\Interface.Common\bin\Debug\netcoreapp3.1\Interface.Common.deps.json
+D:\Codes\KuaiDi100\Interface.Common\bin\Debug\netcoreapp3.1\Interface.Common.dll
+D:\Codes\KuaiDi100\Interface.Common\obj\Debug\netcoreapp3.1\Interface.Common.csprojAssemblyReference.cache
+D:\Codes\KuaiDi100\Interface.Common\obj\Debug\netcoreapp3.1\Interface.Common.AssemblyInfoInputs.cache
+D:\Codes\KuaiDi100\Interface.Common\obj\Debug\netcoreapp3.1\Interface.Common.AssemblyInfo.cs
+D:\Codes\KuaiDi100\Interface.Common\bin\Debug\netcoreapp3.1\Interface.Common.pdb
+D:\Codes\KuaiDi100\Interface.Common\obj\Debug\netcoreapp3.1\Interface.Common.csproj.CoreCompileInputs.cache
+D:\Codes\KuaiDi100\Interface.Common\obj\Debug\netcoreapp3.1\Interface.Common.dll
+D:\Codes\KuaiDi100\Interface.Common\obj\Debug\netcoreapp3.1\Interface.Common.pdb
