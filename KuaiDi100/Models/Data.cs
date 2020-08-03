@@ -1,4 +1,4 @@
-﻿using System.Text.Json.Serialization;
+﻿using Newtonsoft.Json;
 
 namespace KuaiDi100.Models
 {
@@ -7,19 +7,19 @@ namespace KuaiDi100.Models
         /// <summary>
         /// 内容
         /// </summary>
-        [JsonPropertyName("context")]
+        [JsonProperty("context")]
         public string Context { get; set; }
 
         /// <summary>
         /// 时间，原始格式
         /// </summary>
-        [JsonPropertyName("time")]
+        [JsonProperty("time")]
         public string Time { get; set; }
 
         /// <summary>
         /// ftime
         /// </summary>
-        [JsonPropertyName("ftime")]
+        [JsonProperty("ftime")]
         public string FTime { get; set; }
     }
 }

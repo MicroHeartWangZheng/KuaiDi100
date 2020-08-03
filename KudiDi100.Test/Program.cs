@@ -11,14 +11,14 @@ namespace KudiDi100.Test
             var client = new KuaiDi100Client(new KuaiDi100Config()
             {
                 ApiUrl = "https://poll.kuaidi100.com",
-                Customer = "abc",
-                Key = "123"
+                Customer = "11E41580BB7F1F1B7C9D8BF57D6CC59C",
+                Key = "mAPDsACR5661"
             });
 
             var response = client.Execute(new QueryRequest()
             {
-                Com = "wuliu",
-                Num = "12344"
+                Com = "zhongtong",
+                Num = "75374767693697"
             });
         }
     }
